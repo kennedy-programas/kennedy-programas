@@ -40,7 +40,7 @@
 </div>
 
 ###
-<h2 align="center">📊 Minhas Estatísticas do GitHub</h2>
+<h2 align="center"> Minhas Estatísticas do GitHub</h2>
 
   <div align="center">
 
