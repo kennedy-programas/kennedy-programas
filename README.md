@@ -3,6 +3,7 @@
 ###
 
 <div align="center">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
@@ -21,12 +22,15 @@
 ###
 
 <div align="left">
+  <p align="center">
+  <!-- seus ícones aqui -->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <p>
 </div>
 
 ###
@@ -36,7 +40,11 @@
 </div>
 
 ###
+<h2 align="center">📊 Minhas Estatísticas do GitHub</h2>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedy-programas&theme=algolia&show_icons=true)
+  <div align="center">
 
-     
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedy-programas&theme=algolia&show_icons=true)
+
+</div>
+
