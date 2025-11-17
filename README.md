@@ -36,4 +36,5 @@
 </div>
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)       
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=gorilla&show_icons=true)
+     
