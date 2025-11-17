@@ -36,5 +36,6 @@
 </div>
 
 ###
-![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=gorilla&show_icons=true)
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=gorilia&show_icons=true)
+
      
